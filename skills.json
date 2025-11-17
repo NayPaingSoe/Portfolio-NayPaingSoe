@@ -1,122 +1,122 @@
 [
   {
     "name": "ReactJS",
-    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   },
   {
     "name": "Redux",
-    "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
   },
   {
     "name": "RTK Query",
-    "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
   },
   {
     "name": "Axios",
-    "icon": "https://img.icons8.com/color/48/000000/axios.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
   },
   {
     "name": "NextJS",
-    "icon": "https://img.icons8.com/ios-filled/50/000000/nextjs.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
   },
   {
     "name": "Tanstack",
-    "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   },
   {
     "name": "Zustand",
-    "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   },
   {
     "name": "Zod",
-    "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   },
   {
     "name": "VueJS",
-    "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
   },
   {
     "name": "Vuex",
-    "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
   },
   {
     "name": "TypeScript",
-    "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   },
   {
     "name": "React Router",
-    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   },
   {
     "name": "PHP",
-    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
   },
   {
     "name": "Laravel",
-    "icon": "https://img.icons8.com/fluency/48/laravel.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
   },
   {
     "name": "NodeJS",
-    "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   },
   {
     "name": "ExpressJS",
-    "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
   },
   {
     "name": "MySQL",
-    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   },
   {
     "name": "SSR",
-    "icon": "https://img.icons8.com/ios-filled/50/000000/nextjs.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
   },
   {
     "name": "SSG",
-    "icon": "https://img.icons8.com/ios-filled/50/000000/nextjs.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
   },
   {
     "name": "SEO",
-    "icon": "https://img.icons8.com/color/48/000000/search-more.png"
+    "icon": "https://img.icons8.com/color/48/000000/search.png"
   },
   {
     "name": "Ajax",
-    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   },
   {
     "name": "Git",
-    "icon": "https://img.icons8.com/color/48/000000/git.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   },
   {
     "name": "CI/CD",
-    "icon": "https://img.icons8.com/color/48/000000/git.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   },
   {
     "name": "Material-UI",
-    "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
   },
   {
     "name": "Vite",
-    "icon": "https://img.icons8.com/fluency/48/vite.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
   },
   {
     "name": "Tailwind CSS",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
   },
   {
     "name": "Bootstrap",
-    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
   },
   {
     "name": "HTML5",
-    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   },
   {
     "name": "CSS3",
-    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   },
   {
     "name": "JavaScript",
-    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   }
 ]

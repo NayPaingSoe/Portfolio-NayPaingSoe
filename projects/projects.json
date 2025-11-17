@@ -58,15 +58,5 @@
       "view": "#",
       "code": "https://github.com/NayPaingSoe"
     }
-  },
-  {
-    "name": "CCTV Service Budget Calculator",
-    "desc": "Developed the budget calculator that calculates the amount of charges for the CCTV services. Understanding of server-side rendering and its benefits. Coordinating with the project manager for getting the requirements and developing the code to support new applications.",
-    "image": "portfolio1",
-    "category": "mern",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/NayPaingSoe"
-    }
   }
 ]
