@@ -2,7 +2,7 @@
   {
     "name": "GiveCredit",
     "desc": "A modern digital lending platform built for the Australian market, enabling customers to discover, simulate, and manage their home loan journey. Features secure registration, loan calculators, blog content, booking functionality, household-based loan visibility, loyalty rewards, and WhatsApp-based support.",
-    "image": "portfolio1",
+    "image": "GiveCredit",
     "category": "mern",
     "links": {
       "view": "https://www.givecredit.au",
