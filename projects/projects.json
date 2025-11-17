@@ -32,8 +32,8 @@
   {
     "name": "Slazh Online Shop Platform",
     "desc": "Developed a fully responsive E-commerce Platform for Clothing & Accessories and focused on performance, usability, and cross-device compatibility. Designed intuitive product listing, filtering, and search features, improving product discoverability and user retention. Implemented secure checkout flows with third-party payment integrations (e.g., KBZ Pay), ensuring a smooth and reliable transaction process and executed real-time chat, promo tools.",
-    "image": "portfolio1",
-    "category": "mern",
+    "image": "slazh",
+    "category": "nextjs",
     "links": {
       "view": "#",
       "code": "https://github.com/NayPaingSoe"

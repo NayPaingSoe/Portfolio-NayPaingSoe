@@ -96,7 +96,7 @@ function showProjects(projects) {
 }
 
 getProjects().then((data) => {
-  showProjects(data);
+  <!-- showProjects(data); -->
 });
 // fetch projects end
 
